@@ -1,7 +1,7 @@
 {
   "version": "14.24.2",
   "updated_at": "2025-01-01T12:00:00Z",
-  "data_url": "https://github.com/MatthewTran22/LoLOverlay-Data/releases/download/v14.21.1/data.json",
+  "data_url": "https://github.com/MatthewTran22/LoLOverlay-Data/releases/download/v14.21.4/data.json",
   "data_sha256": "7327d61aa232f15aef36db11cd044ceb9c5a2f9cd610a213e9275ef6a50f6162",
   "force_reset": false,
   "min_app_version": "1.0.0",
