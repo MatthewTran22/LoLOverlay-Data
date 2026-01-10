@@ -1,10 +1,10 @@
 {
-  "version": "15.24.2",
-  "updated_at": "2025-01-01T12:00:00Z",
-  "data_url": "https://github.com/MatthewTran22/LoLOverlay-Data/releases/download/15.24.2/data.json",
-  "data_sha256": "6d398eb18d16ce96d774991580d3ccf8bfe0d3a5b2c21c176be59345167df00d",
+  "version": "16.1.1",
+  "updated_at": "2026-01-10T00:49:50Z",
+  "data_url": "https://github.com/MatthewTran22/LoLOverlay-Data/releases/download/16.1.1/data.json",
+  "data_sha256": "4bb8a448e8451d54871d7c56f7202990a3159c4c91215e8e8bd8e1e5aedcd1ba",
   "force_reset": false,
-  "min_patch": "15.21",
+  "min_patch": "15.22",
   "min_app_version": "1.0.0",
-  "message": "Data updated for Patch 14.24"
+  "message": "Data updated for Patch 16.1.1"
 }
